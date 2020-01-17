@@ -13,11 +13,12 @@ $ pip install -r requirements.txt
 Make start.sh file executable by running:
 $ chmod a+x start.sh
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+N/A 
 ## Technologies Used
 This project was build using Python3.6. Flask postgresql for the database and Deployed on Heroku.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+Email address: blackrocket.47@gmail.com
+Contact details:0716613990
+
+
 Copyright (c) 2020 **Greg Katono**
